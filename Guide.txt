@@ -1,0 +1,7 @@
+1. Tải file weight ở link: 
+https://drive.google.com/file/d/1Aa9D4lgrGLUWdKB_F-lPsupx5jqg7T0B/view?usp=sharing
+2. Lưu file weight ở file model.
+3. Bật terminal và nhập python dectection.py.
+4. Nhấn b để lấy background.
+5. Nhấn r để resetbackground.
+6. Nhấn q để thoát.
